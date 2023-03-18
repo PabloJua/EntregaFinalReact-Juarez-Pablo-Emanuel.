@@ -1,0 +1,166 @@
+ [    
+    {
+        "index": 1,
+        "nombre": "Abrigo 01",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/abrigos/01.jpg",
+        "precio": 1000,
+        "stock": 10,
+        "categoria": "abrigos"
+    },
+    {
+        "index": 2,
+        "nombre": "Abrigo 02",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/abrigos/02.jpg",
+        "precio": 1000,
+        "stock": 9,
+        "categoria": "abrigos"
+    },
+    {
+        "index": 3,
+        "nombre": "Abrigo 03",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/abrigos/03.jpg",
+        "precio": 1000,
+        "stock": 6,
+        "categoria": "abrigos"
+    },
+    {
+        "index": 4,
+        "nombre": "Abrigo 04",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/abrigos/04.jpg",
+        "precio": 1000,
+        "stock": 7,
+        "categoria": "abrigos"
+    },
+    {
+        "index": 5,
+        "nombre": "Abrigo 05",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/abrigos/05.jpg",
+        "precio": 1000,
+        "stock": 10,
+        "categoria": "abrigos"
+    },
+
+    {
+        "index": 6,
+        "nombre": "Camiseta 01",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/01.jpg",
+        "precio": 1000,
+        "stock": 6,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 7,
+        "nombre": "Camiseta 02",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/02.jpg",
+        "precio": 1000,
+        "stock": 6,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 8,
+        "nombre": "Camiseta 03",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/03.jpg",
+        "precio": 1000,
+        "stock": 8,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 9,
+        "nombre": "Camiseta 04",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/04.jpg",
+        "precio": 1000,
+        "stock": 4,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 10,
+        "nombre": "Camiseta 05",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/05.jpg",
+        "precio": 1000,
+        "stock": 5,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 11,
+        "nombre": "Camiseta 06",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/06.jpg",
+        "precio": 1000,
+        "stock": 8,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 12,
+        "nombre": "Camiseta 07",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/07.jpg",
+        "precio": 1000,
+        "stock": 14,
+        "categoria": "camisetas"
+    },
+    {
+        "index": 13,
+        "nombre": "Camiseta 08",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/camisetas/08.jpg",
+        "precio": 1000,
+        "stock": 12,
+        "categoria": "camisetas"
+    },  
+
+    {
+        "index": 14,
+        "nombre": "Pantalón 01",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/pantalones/01.jpg",
+        "precio": 1000,
+        "stock": 10,
+        "categoria": "pantalones"  
+    },
+    {
+        "index": 15,
+        "nombre": "Pantalón 02",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/pantalones/02.jpg",
+        "precio": 1000,
+        "stock": 4,
+        "categoria": "pantalones"  
+    },
+    {
+        "index": 16,
+        "nombre": "Pantalón 03",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/pantalones/03.jpg",
+        "precio": 1000,
+        "stock": 12,
+        "categoria": "pantalones"  
+    },
+    {
+        "index": 17,
+        "nombre": "Pantalón 04",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/pantalones/04.jpg",
+        "precio": 1000,
+        "stock": 8,
+        "categoria": "pantalones"  
+    },
+    {
+        "index": 18,
+        "nombre": "Pantalón 05",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam! Perferendis, fugit ea! Laboriosam totam hic eius quasi vero officiis esse repellendus",
+        "imagen": "./images/productos/pantalones/05.jpg",
+        "precio": 1000,
+        "stock": 15,
+        "categoria": "pantalones"  
+    }
+]
