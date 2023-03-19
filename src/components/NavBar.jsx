@@ -16,6 +16,9 @@ const NavBar = () => {
                             <div className="collapse navbar-collapse" id="navbarNav">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
+                                        <NavLink className="nav-link" activeclassName={"active"} to={"/home"}>Inicio</NavLink>
+                                    </li>
+                                    <li className="nav-item">
                                         {/*a ---> enlaces salientes.
                                          link ---> enlaces propios, internos de la app,que redireccionen a otro componente */}
                                         <NavLink className="nav-link" activeclassName={"active"} to={"/"}>Productos</NavLink>
