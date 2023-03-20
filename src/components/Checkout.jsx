@@ -92,6 +92,5 @@ const Checkout = () => {
 
 export default Checkout
 
-/* Workshop
- min */
+
 

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"
 import { Link } from "react-router-dom";
+import "../components/css/itemDetail.css"
 
 
 const ItemCount = ({stock, onAdd}) => {
@@ -35,9 +36,9 @@ const ItemCount = ({stock, onAdd}) => {
     },[stock])
 
     return (
-        <div className="container text-center">
-            <div className="row my-1">
-                <div className="col">
+        <div className="container-boton text-center">
+            <div className="row-btn__incrementar-decrementar my-2">
+                <div className="col text-start">
                     <div className="btn-group">
                         <button type="button" className="btn bg-info-subtle" onClick={decrementarStock}>-</button>
                         <button type="button" className="btn bg-info-subtle">{items}</button>
@@ -45,11 +46,11 @@ const ItemCount = ({stock, onAdd}) => {
                     </div>
                 </div>
             </div>
-            <div className="row my-1">
-                <div className="col">
+            <div className="row-btn__agregar-terminar my-1 ">
+                <div className="col text-start">
                     {/**Cambio de boton y pasa a ser un enlace*/}
-                    { itemAdded ? <Link to={"/cart"} className="btn btn-warning"> Terminar Mi ccompra </Link> :
-                    <button className="btn bg-info-subtle" onClick={addToCart}>Agregar al Carrito</button>}
+                    { itemAdded ? <Link to={"/cart"} className="btn bg-info-subtle"> Terminar mi compra </Link> :
+                    <button className="btn bg-info-subtle" onClick={addToCart}>Agregar al carrito</button>}
                 </div>
             </div>
         </div>
