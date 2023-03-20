@@ -1,0 +1,83 @@
+.container__orden {
+    margin-top: 180px;
+    margin-bottom: 200px;
+    margin-left: 20px;
+}
+
+.container-login {
+    display: grid;
+    place-items: center;
+    max-width: 380px;
+    top: -185px;
+    left: 10px;
+    transition: left 500ms cubic-bezier(0.175, 0.885, 0.320, 1.27);
+}
+
+.container-login form{
+    width: 100%;
+    background: #778bb3;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.container-login .formulario-orden {
+    height: auto !important;
+    margin-top: -50px;
+    width: 380px;
+    padding: 30px 20px;
+}
+
+.container-login .formulario-orden input{
+    margin-top: 30px;
+}
+
+.container-login .formulario-orden button{
+    margin-top: 40px;
+}
+
+.container-login form h2 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    color: #feffff;
+}
+
+.container-login form input {
+    width: 100%;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background: #131e32;
+    color: #f2f2f2;
+    font-size: 13px;
+    outline: none;
+}
+
+.container-login form button {
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 14px;
+    background: #b8c9eb;
+    color: #131e32;
+    cursor: pointer;
+    display: flex;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.container-login form button:hover {
+    background: #3a4d72;
+    color: white;
+    border-color: white;
+    font-weight: 500;
+}
+
+.container__compra {
+    padding-left: 120px;
+}
+
