@@ -1,7 +1,12 @@
+.titulo-principal {
+    padding-bottom: 100px;
+}
+
 .container__orden {
     margin-top: 180px;
     margin-bottom: 200px;
     margin-left: 20px;
+    padding-bottom: 150px;
 }
 
 .container-login {

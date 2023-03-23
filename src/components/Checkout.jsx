@@ -39,8 +39,8 @@ const Checkout = () => {
 
   return (
     <div className="container">
-      <div className="row ps-4">
-      <h1 className="text-start fw-bolder">Finalizar Compra</h1>
+      <div className="row ps-4 titulo-principal">
+        <h1 className="text-start fw-bolder" style={{color:"#131e32"}}>Finalizar Compra</h1>
       </div>
       <div className="row container__orden">
         <div className="col-md-4 container-login">

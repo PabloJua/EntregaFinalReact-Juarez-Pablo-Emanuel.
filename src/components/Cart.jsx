@@ -60,9 +60,9 @@ const Cart = () => {
       <div className="col-md-12">
         <table className="table">
           <tr>
-            <td className="text-start pt-5" colSpan={5}><Link type="button" className="btn bg-info-subtle" onClick={() => { clear() }}>Vaciar Carrito</Link></td>
+            <td className="text-start pt-5" colSpan={5}><Link type="button" className="btn" style={{backgroundColor:"#778bb3"}} onClick={() => { clear() }}>Vaciar Carrito</Link></td>
             <td className="text-center pt-5">Total a Pagar:<b>${cartTotalPagar()}</b></td>
-            <td className="text-end pt-5"><Link to={"/checkout"} type="button" className="btn bg-info-subtle">Finalizar Compra</Link></td>
+            <td className="text-end pt-5"><Link to={"/checkout"} type="button" className="btn" style={{backgroundColor:"#778bb3"}}>Finalizar Compra</Link></td>
           </tr> 
         </table>
       </div>

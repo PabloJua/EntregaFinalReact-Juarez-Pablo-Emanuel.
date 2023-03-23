@@ -8,9 +8,9 @@ const CartWidget = () => {
     const {cartTotalProductos} = useContext(CartContext) 
     
     return (cartTotalProductos() > 0) ? 
-        <Link to={"/cart"} className="btn bg-info-subtle position-relative">
+        <Link to={"/cart"} className="btn position-relative" style={{backgroundColor:"#778bb3"}}>
             <img src={carrito} alt={"Carrito"} width={24} />
-            <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">{cartTotalProductos()}</span>
+            <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill" style={{backgroundColor:"#131e32"}}>{cartTotalProductos()}</span>
         </Link> : "";
     
 }

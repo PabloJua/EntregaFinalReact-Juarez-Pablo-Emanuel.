@@ -48,7 +48,7 @@ const ItemListContainer = () => {
 
 
     return (
-        < div className="container">
+        < div className="container my-5">
             {loading ? <Loading/> : <ItemList items={items} />}
         </div>
     )

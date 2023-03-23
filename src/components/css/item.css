@@ -1,0 +1,33 @@
+.producto-imagen {
+    max-width: 60%; /* asi no ocupa mas del 100% de su padre que es su grilla */
+    border-radius: 1rem;
+}
+
+.producto-detalles {
+    background-color: #778bb3;
+    color: var(--clr-white);
+    padding: .5rem  0 0 0;
+    border-radius: 1rem;
+    margin-top: -2rem; /*para que suba el elemento*/
+    margin-left: 83px;
+    position: relative; /*para que se ponga encima*/
+    display: flex;
+    flex-direction: column;
+    gap: .25rem; /*separar los elementos entre ellos*/
+    max-width: 60%;
+    margin-bottom: 40px !important;
+}
+
+.producto-titulo {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+    padding-left: .7rem;
+} 
+
+.bg-precio {
+    background-color: white;
+    color: #131e32;
+    border-radius: 1rem;
+    padding: .7rem;
+}
